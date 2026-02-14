@@ -1,0 +1,19 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 800'>
+  <rect width='1200' height='800' fill='#f8fafc'/>
+  <text x='600' y='80' text-anchor='middle' font-size='52' font-family='Arial' fill='#111827' font-weight='700'>Cărți PIONIERAT</text>
+  <g transform='translate(120,150)'>
+    <rect width='240' height='300' rx='14' fill='#ef4444'/><text x='120' y='70' text-anchor='middle' fill='white' font-size='34' font-family='Arial' font-weight='700'>TERITORIUL</text><text x='120' y='210' text-anchor='middle' fill='white' font-size='24' font-family='Arial'>Două vizite</text>
+  </g>
+  <g transform='translate(480,150)'>
+    <rect width='240' height='300' rx='14' fill='#3b82f6'/><text x='120' y='70' text-anchor='middle' fill='white' font-size='34' font-family='Arial' font-weight='700'>ORAȘ</text><text x='120' y='210' text-anchor='middle' fill='white' font-size='24' font-family='Arial'>KIEV</text>
+  </g>
+  <g transform='translate(840,150)'>
+    <rect width='240' height='300' rx='14' fill='#10b981'/><text x='120' y='70' text-anchor='middle' fill='white' font-size='34' font-family='Arial' font-weight='700'>ELECTRICA</text><text x='120' y='210' text-anchor='middle' fill='white' font-size='24' font-family='Arial'>+25 ore</text>
+  </g>
+  <g transform='translate(300,480)'>
+    <rect width='240' height='220' rx='14' fill='#fde68a'/><text x='120' y='110' text-anchor='middle' fill='#111827' font-size='30' font-family='Arial'>Situații</text>
+  </g>
+  <g transform='translate(660,480)'>
+    <rect width='240' height='220' rx='14' fill='#c7d2fe'/><text x='120' y='110' text-anchor='middle' fill='#111827' font-size='30' font-family='Arial'>Strategie</text>
+  </g>
+</svg>
