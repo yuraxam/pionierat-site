@@ -1,0 +1,7 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 700'>
+  <rect width='1200' height='700' fill='#eef2f7'/>
+  <rect x='40' y='40' width='1120' height='620' rx='14' fill='#d9e4d5' stroke='#1f2937' stroke-width='6'/>
+  <rect x='315' y='220' width='570' height='170' rx='20' fill='#ef233c' transform='rotate(-20 600 305)'/>
+  <text x='600' y='310' font-size='88' font-family='Arial, sans-serif' text-anchor='middle' fill='white' font-weight='700' transform='rotate(-20 600 305)'>PIONIERAT</text>
+  <text x='600' y='405' font-size='44' font-family='Arial, sans-serif' text-anchor='middle' fill='#111827'>Folosește timpul cu înțelepciune</text>
+</svg>
